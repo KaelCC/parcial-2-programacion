@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="240"
+  height="235"
+  viewBox="0 0 240 235">
+  <rect x="0" y="0"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="20" y="24"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="40" y="0"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="60" y="24"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="80" y="0"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="100" y="24"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="120" y="0"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="140" y="24"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="160" y="0"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="180" y="24"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="200" y="0"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="220" y="24"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="0" y="40"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="20" y="64"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="40" y="40"
+  width="40" height="40"
+  fill="#65b96c" stroke="#333333"/>
+<text x="60" y="64"
+  text-anchor="middle" font-size="12">inicio</text>
+
+<rect x="80" y="40"
+  width="40" height="40"
+  fill="#eeeeee" stroke="#333333"/>
+<text x="100" y="64"
+  text-anchor="middle" font-size="12">pasillo</text>
+
+<rect x="120" y="40"
+  width="40" height="40"
+  fill="#987044" stroke="#333333"/>
+<text x="140" y="64"
+  text-anchor="middle" font-size="12">lodo</text>
+
+<rect x="160" y="40"
+  width="40" height="40"
+  fill="#e5c44d" stroke="#333333"/>
+<text x="180" y="64"
+  text-anchor="middle" font-size="12">meta</text>
+
+<rect x="200" y="40"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="220" y="64"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="0" y="80"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="20" y="104"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="40" y="80"
+  width="40" height="40"
+  fill="#eeeeee" stroke="#333333"/>
+<text x="60" y="104"
+  text-anchor="middle" font-size="12">pasillo</text>
+
+<rect x="80" y="80"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="100" y="104"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="120" y="80"
+  width="40" height="40"
+  fill="#eeeeee" stroke="#333333"/>
+<text x="140" y="104"
+  text-anchor="middle" font-size="12">pasillo</text>
+
+<rect x="160" y="80"
+  width="40" height="40"
+  fill="#eeeeee" stroke="#333333"/>
+<text x="180" y="104"
+  text-anchor="middle" font-size="12">pasillo</text>
+
+<rect x="200" y="80"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="220" y="104"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="0" y="120"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="20" y="144"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="40" y="120"
+  width="40" height="40"
+  fill="#eeeeee" stroke="#333333"/>
+<text x="60" y="144"
+  text-anchor="middle" font-size="12">pasillo</text>
+
+<rect x="80" y="120"
+  width="40" height="40"
+  fill="#eeeeee" stroke="#333333"/>
+<text x="100" y="144"
+  text-anchor="middle" font-size="12">pasillo</text>
+
+<rect x="120" y="120"
+  width="40" height="40"
+  fill="#eeeeee" stroke="#333333"/>
+<text x="140" y="144"
+  text-anchor="middle" font-size="12">pasillo</text>
+
+<rect x="160" y="120"
+  width="40" height="40"
+  fill="#eeeeee" stroke="#333333"/>
+<text x="180" y="144"
+  text-anchor="middle" font-size="12">pasillo</text>
+
+<rect x="200" y="120"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="220" y="144"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="0" y="160"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="20" y="184"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="40" y="160"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="60" y="184"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="80" y="160"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="100" y="184"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="120" y="160"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="140" y="184"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="160" y="160"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="180" y="184"
+  text-anchor="middle" font-size="12">pared</text>
+
+<rect x="200" y="160"
+  width="40" height="40"
+  fill="#333333" stroke="#333333"/>
+<text x="220" y="184"
+  text-anchor="middle" font-size="12">pared</text>
+
+  <polyline points="60,60 100,60 140,60 180,60"
+  fill="none" stroke="#ff0000"
+  stroke-width="5" stroke-linejoin="round"/>
+
+</svg>
